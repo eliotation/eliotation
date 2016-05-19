@@ -3,12 +3,15 @@
 }
 
 .box {
-    width:500px;
-    height:500px;
+    width:600px;
+    height:600px;
     position:fixed;
-    margin-left:-90px;
-    margin-top:-100px;
+    text-align: left;
+    vertical-align: top;
+    margin-left:-300px;
+    margin-top:-400px;
     border-color:white;
+    padding: 10px;
     top:50%;
     left:50%;
 }
