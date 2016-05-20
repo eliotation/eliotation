@@ -9,30 +9,9 @@
     width:900px;
     font-family:courier;
     font-size:12pt;
-    border-width:10px;
-    border-spacing:10px;
+    border-width:5px;
+    border-spacing:5px;
     border-color:white;
-}
-
-.h3 {
-    font-size: 150%;
-    font-weight:normal;
-    font-variant:normal;
-    font-style:normal;
-}
-
-.box {
-    width:600px;
-    height:600px;
-    position:fixed;
-    text-align: left;
-    vertical-align: top;
-    margin-left:-300px;
-    margin-top:-400px;
-    border-color:white;
-    padding: 10px;
-    top:50%;
-    left:50%;
 }
 
 table a:link {
